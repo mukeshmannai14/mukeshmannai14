@@ -38,6 +38,9 @@ A responsive fashion e-commerce website for clothing, shoes, and watches built u
 ### 🎓 Great Learning Website
 A responsive Udemy-inspired learning platform built using **HTML and CSS**.
 
+###🏡 Staybnb Website
+A responsive Airbnb-inspired front-end website built using **HTML, CSS, and JavaScript**, featuring a modern UI, property listing cards, a search section, and a mobile-friendly dropdown navigation menu.
+
 ### 👨‍💻 Portfolio Website
 A personal portfolio showcasing my skills and projects.
 
