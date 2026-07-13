@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mukeshkanna
+# Hi 👋, I'm Mukesh kanna
 
 ## 💻 Front-End Developer
 
