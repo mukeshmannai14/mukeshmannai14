@@ -77,14 +77,21 @@ A personal portfolio showcasing my projects, technical skills, and contact infor
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Profile Summary
 
 <p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukeshmannai14&theme=holi" alt="Profile Summary"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mukeshmannai14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukeshmannai14&theme=holi" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mukeshmannai14&theme=holi&utcOffset=5.5" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshmannai14&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukeshmannai14&theme=holi" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukeshmannai14&theme=holi" />
+</p>
 </p>
 
 ---
