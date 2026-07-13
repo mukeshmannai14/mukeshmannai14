@@ -1,74 +1,95 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Mukesh%20Kanna&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Building%20Responsive%20Web%20Experiences&descAlignY=60"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Mukesh Kanna</h1>
 
-<h3 align="center">💻 Front-End Developer | Aspiring Full Stack Developer</h3>
+<h3 align="center">
+Front-End Developer • HTML • CSS • JavaScript
+</h3>
 
 <p align="center">
-Passionate about building responsive, modern, and user-friendly web applications using HTML, CSS, and JavaScript.
+I enjoy building responsive, modern, and user-friendly websites while continuously improving my web development skills through real-world projects.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mukeshmannai14&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<a href="https://github.com/mukeshmannai14">
+<img src="https://komarev.com/ghpvc/?username=mukeshmannai14&label=Profile%20Views&color=2563eb&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/mukeshmannai14?tab=followers">
+<img src="https://img.shields.io/github/followers/mukeshmannai14?style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🌱 Currently learning **HTML, CSS & JavaScript**
-- 💻 Passionate about Front-End Web Development
-- 🎯 Focused on building real-world projects to strengthen my skills
-- 📍 Based in **Tamil Nadu, India**
-- 🚀 Goal: Become a skilled **Full Stack Developer**
+🎓 Mechanical Engineering Graduate (2023)
+
+💻 Passionate Front-End Developer
+
+🌱 Currently learning **HTML, CSS & JavaScript**
+
+🚀 Building responsive and interactive websites
+
+📚 Learning through real-world projects
+
+🎯 Goal: Become a Full Stack Developer
+
+📍 Tamil Nadu, India
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode"/>
+
 </p>
 
 ---
 
-## 📚 Currently Learning
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Responsive Web Design
-- Git & GitHub
-
----
-
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🛒 Nostra
-Responsive e-commerce website featuring product search, filtering, and a modern responsive user interface.
+Responsive e-commerce website featuring product search, filtering, and a clean shopping interface built using HTML, CSS, and JavaScript.
 
 ### 🛍️ RedStore
-Fashion e-commerce website for clothing, shoes, and watches with a responsive layout and JavaScript-powered mobile navigation menu.
+A responsive fashion e-commerce website for clothing, shoes, and watches with a mobile navigation menu and modern UI.
 
 ### 🏡 Staybnb
-Airbnb-inspired responsive website featuring a modern landing page, property listing cards, search section, and mobile dropdown navigation.
+A responsive Airbnb-inspired website featuring property listings, search functionality, and a clean, modern design.
 
 ### 🌿 Greenify
-Responsive plant shopping website built using HTML, Tailwind CSS, and JavaScript with a clean and modern interface.
+A responsive plant shopping website built with HTML, Tailwind CSS, and JavaScript.
 
 ### 🎓 Great Learning Website
-A responsive Udemy-inspired e-learning platform developed using HTML and CSS.
+A responsive Udemy-inspired online learning platform developed using HTML and CSS.
 
 ### 👨‍💻 Portfolio Website
-A responsive personal portfolio showcasing my skills, projects, and contact information.
+A personal portfolio showcasing my projects, technical skills, and contact information.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukeshmannai14&show_icons=true&theme=tokyonight&hide_border=true" alt="Mukesh's GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mukeshmannai14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshmannai14&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-## 🔥 GitHub Streak
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -78,34 +99,66 @@ A responsive personal portfolio showcasing my skills, projects, and contact info
 
 ---
 
-## 🎯 2026 Goals
+# 📚 Currently Learning
 
-- ✅ Master HTML, CSS, and JavaScript
-- ✅ Build 20+ real-world projects
-- ✅ Learn React.js
-- ✅ Learn Backend Development
-- ✅ Become a Full Stack Developer
-- ✅ Land my first Software Developer role
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Responsive Web Design
+- Git & GitHub
 
 ---
 
-## 📫 Connect With Me
+# 🎯 2026 Goals
 
-<p align="left">
+✅ Master JavaScript
 
-🐙 GitHub: https://github.com/mukeshmannai14
+✅ Build 20+ Real-World Projects
 
-💼 LinkedIn: https://www.linkedin.com/in/mukeshmannai14
+✅ Learn React.js
 
+✅ Learn Backend Development
+
+✅ Contribute to Open Source
+
+✅ Land My First Front-End Developer Role
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="www.linkedin.com/in/mukeshkanna14">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/mukeshmannai14">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
 
 </p>
 
 ---
 
-<div align="center">
+# 💭 Developer Mindset
 
-### 💡 "Learning by building real-world projects, one commit at a time."
+> **"Every project I build is an opportunity to learn, improve, and grow as a developer."**
 
-⭐ Thanks for visiting my profile!
+---
 
-</div>
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider ⭐ starring my repositories and following my GitHub journey.
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
+</p>
