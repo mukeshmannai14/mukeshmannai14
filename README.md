@@ -65,14 +65,8 @@ A responsive personal portfolio showcasing my skills, projects, and contact info
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mukeshmannai14&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshmannai14&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mukeshmannai14&show_icons=true&theme=tokyonight&hide_border=true" alt="Mukesh's GitHub Stats" />
 </p>
-
----
 
 ## 🔥 GitHub Streak
 
