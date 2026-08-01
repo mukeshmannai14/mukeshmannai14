@@ -1,171 +1,190 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Mukesh%20Kanna&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Building%20Responsive%20Web%20Experiences&descAlignY=60"/>
+<div align="center">
+
+# 👋 Hi, I'm Mukesh Kanna
+
+### 🚀 Aspiring Full Stack Developer | React Developer | Frontend Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress...;Building+Modern+React+Applications;Passionate+About+Clean+UI+%26+Great+UX;Always+Learning+%F0%9F%9A%80" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=mukeshmannai14&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/mukeshmannai14?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/mukeshmannai14?style=for-the-badge" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mukesh Kanna</h1>
-
-<h3 align="center">
-Front-End Developer • HTML • CSS • JavaScript
-</h3>
-
-<p align="center">
-I enjoy building responsive, modern, and user-friendly websites while continuously improving my web development skills through real-world projects.
-</p>
-
-<p align="center">
-<a href="https://github.com/mukeshmannai14">
-<img src="https://komarev.com/ghpvc/?username=mukeshmannai14&label=Profile%20Views&color=2563eb&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/mukeshmannai14?tab=followers">
-<img src="https://img.shields.io/github/followers/mukeshmannai14?style=for-the-badge&logo=github"/>
-</a>
-
-<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge"/>
-</p>
+</div>
 
 ---
 
 # 💫 About Me
 
-🎓 Mechanical Engineering Graduate (2023)
+🎓 Mechanical Engineering Graduate
 
-💻 Passionate Front-End Developer
+💻 Transitioning into **Full Stack Development**
 
-🌱 Currently learning **HTML, CSS & JavaScript**
+🌱 Currently mastering **React.js**, JavaScript, Node.js & MongoDB
 
-🚀 Building responsive and interactive websites
+🎯 Passionate about building responsive and modern web applications
 
-📚 Learning through real-world projects
+📚 Learning by building real-world projects every week
 
-🎯 Goal: Become a Full Stack Developer
+🚀 Goal: Become a Professional Full Stack Developer
 
-📍 Tamil Nadu, India
+💼 Open to Internship, Freelance and Full-Time Opportunities
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
-<p align="center">
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode"/>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
+### Backend (Learning)
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
-
-### 🛒 Nostra
-Responsive e-commerce website featuring product search, filtering, and a clean shopping interface built using HTML, CSS, and JavaScript.
-
-### 🛍️ RedStore
-A responsive fashion e-commerce website for clothing, shoes, and watches with a mobile navigation menu and modern UI.
-
-### 🏡 Staybnb
-A responsive Airbnb-inspired website featuring property listings, search functionality, and a clean, modern design.
+# 📂 Featured Projects
 
 ### 🌿 Greenify
-A responsive plant shopping website built with HTML, Tailwind CSS, and JavaScript.
 
-### 🎓 Great Learning Website
-A responsive Udemy-inspired online learning platform developed using HTML and CSS.
+Modern Plant Store Website built with HTML, CSS, JavaScript & Tailwind CSS.
+
+---
+
+### 🎬 MovieFlix
+
+Responsive movie browsing website with beautiful UI and responsive layout.
+
+---
+
+### 🎲 Random Number Generator
+
+React application demonstrating **useState**, state updates and conditional rendering with a modern Glassmorphism design.
+
+---
+
+### 🔢 Counter Application
+
+Interactive Counter App built with React Hooks featuring Increment, Decrement, Reset and modern UI.
+
+---
+
+### 🖼️ Image Gallery
+
+Responsive image gallery developed using reusable React Components.
+
+---
 
 ### 👨‍💻 Portfolio Website
-A personal portfolio showcasing my projects, technical skills, and contact information.
+
+Personal developer portfolio showcasing projects, skills and learning journey.
 
 ---
 
-## 📊 GitHub Profile Summary
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mukeshmannai14&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshmannai14&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshmannai14&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 GitHub Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukeshmannai14&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mukeshmannai14&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🌍 Connect With Me
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukeshmannai14&theme=holi" alt="Profile Summary"/>
-</p>
 
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukeshmannai14&theme=holi" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mukeshmannai14&theme=holi&utcOffset=5.5" />
-</p>
+<a href="https://github.com/mukeshmannai14">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukeshmannai14&theme=holi" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukeshmannai14&theme=holi" />
-</p>
+<a href="https://www.linkedin.com/in/mukeshmannai14">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mukeshkannamannai04@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 💡 Currently Learning
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mukeshmannai14&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Responsive Web Design
-- Git & GitHub
+* ⚛️ Advanced React
+* 🔥 React Router
+* 🌐 REST APIs
+* 🟢 Node.js
+* 🚀 Express.js
+* 🍃 MongoDB
+* ☁️ Deployment
+* 🔐 Authentication
 
 ---
 
 # 🎯 2026 Goals
 
-✅ Master JavaScript
+✅ Build 50+ React Projects
 
-✅ Build 20+ Real-World Projects
-
-✅ Learn React.js
-
-✅ Learn Backend Development
+✅ Master MERN Stack
 
 ✅ Contribute to Open Source
 
-✅ Land My First Front-End Developer Role
+✅ Secure a Full Stack Developer Role
+
+✅ Build Production-Level Applications
 
 ---
 
-# 🤝 Connect With Me
+<div align="center">
 
-<p align="center">
+## ⭐ Thanks for Visiting!
 
-<a href="www.linkedin.com/in/mukeshkanna14">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+*"Code. Learn. Build. Improve. Repeat."*
 
-<a href="https://github.com/mukeshmannai14">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+If you like my projects, consider giving them a ⭐ and let's connect!
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-# 💭 Developer Mindset
-
-> **"Every project I build is an opportunity to learn, improve, and grow as a developer."**
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider ⭐ starring my repositories and following my GitHub journey.
-
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
-</p>
+</div>
