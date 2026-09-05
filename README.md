@@ -4,9 +4,9 @@
 
 # 👋 Welcome to My GitHub Profile
 
-### 🚀 Aspiring Full Stack Developer | React Developer | Frontend Enthusiast
+### 🚀 Full Stack Developer | MERN Stack | React | Python | FinTech Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Interactive+Web+Applications;React+Developer+%7C+Frontend+Enthusiast;Learning+Full+Stack+Development;Always+Building+Always+Learning+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+Modern+Full+Stack+Web+Applications;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Turning+Ideas+Into+Real+World+Applications;Learning+%7C+Building+%7C+Improving+Every+Day+🚀" />
 
 <br>
 
@@ -26,20 +26,64 @@
 
 ```javascript
 const mukesh = {
+  name: "Mukesh Kanna",
   location: "Tamil Nadu, India",
   education: "B.E. Mechanical Engineering",
+
+  background: "Banking & Core Banking Operations",
+
   currentFocus: "Full Stack Development",
-  frontend: ["HTML", "CSS", "JavaScript", "React"],
-  currentlyLearning: [
-    "Advanced React",
+
+  frontend: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Tailwind CSS"
+  ],
+
+  backend: [
     "Node.js",
     "Express.js",
-    "MongoDB"
+    "REST APIs"
   ],
+
+  database: [
+    "MongoDB",
+    "Mongoose"
+  ],
+
+  programming: [
+    "JavaScript",
+    "Python"
+  ],
+
+  interests: [
+    "Full Stack Development",
+    "FinTech",
+    "Web Applications",
+    "Automation"
+  ],
+
   goal: "Become a Professional Full Stack Developer",
+
   status: "Open to Internship & Full-Time Opportunities"
 };
 ```
+
+---
+
+# 🧑‍💻 What I Do
+
+* 💻 Build responsive and interactive web applications
+* ⚛️ Develop frontend applications using React
+* 🟢 Build REST APIs using Node.js and Express.js
+* 🍃 Work with MongoDB and Mongoose
+* 📧 Build email automation solutions
+* 🔐 Implement authentication and authorization
+* 🔗 Integrate frontend applications with backend APIs
+* 🧠 Practice JavaScript, DSA, and problem solving
+* 💡 Learn by building real-world projects
 
 ---
 
@@ -51,13 +95,25 @@ const mukesh = {
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"/>
 </p>
 
-## ⚙️ Backend (Learning)
+## ⚙️ Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-## 🛠 Tools
+## 🗄️ Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
+
+## 🐍 Programming
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,javascript"/>
+</p>
+
+## 🛠️ Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,postman"/>
@@ -65,159 +121,184 @@ const mukesh = {
 
 ---
 
-# 🌱 Currently Learning
+# 📂 Featured Projects
 
-* ⚛️ React Hooks & Component Architecture
-* 🌐 REST API Integration
-* 🟢 Node.js Fundamentals
-* 🚀 Express.js
-* 🍃 MongoDB
-* 🔐 Authentication & Authorization
-* ☁️ Deployment (GitHub Pages, Vercel)
+## 📧 BulkMail — MERN Stack Bulk Email Application
+
+A full-stack bulk email application built using the **MERN stack**.
+
+BulkMail allows users to manage recipient lists from Excel and send emails through an SMTP-based email service.
+
+### ✨ Features
+
+* 📧 Bulk email sending
+* 📊 Excel-based recipient management
+* 👤 Customizable sender email
+* 👥 Multiple recipients
+* 📨 SMTP email integration using Nodemailer
+* 📜 Email history
+* 📈 Email status tracking
+* 🔐 Admin authentication
+* ⚡ REST API integration
+* 🛡️ Error handling and validation
+
+### 🛠️ Tech Stack
+
+`React` `Node.js` `Express.js` `MongoDB` `Mongoose` `Nodemailer` `Tailwind CSS`
+
+🔗 **Repository:** [BulkMail](https://github.com/mukeshmannai14)
 
 ---
 
-# 📂 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
 ## 🌿 Greenify
 
-Modern responsive plant store website.
+Modern responsive plant store website focused on creating a clean and engaging shopping interface.
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
-HTML • CSS • JavaScript • Tailwind CSS
+`HTML` `CSS` `JavaScript` `Tailwind CSS`
 
-</td>
+---
 
-<td width="50%">
+## 🔢 React Counter Application
 
-## 🔢 Counter Application
+A React counter application demonstrating component-based development and the `useState` Hook.
 
-React Counter App using the `useState` Hook with a modern gradient UI.
+### 🛠️ Tech Stack
 
-**Tech Stack**
+`React` `JavaScript` `CSS`
 
-React • JavaScript • CSS
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
+---
 
 ## 🎲 Random Number Generator
 
-Random number generator using React with conditional rendering and glassmorphism UI.
+Interactive React application that generates random numbers with conditional rendering and a modern UI.
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
-React • JavaScript • CSS
+`React` `JavaScript` `CSS`
 
-</td>
+---
 
-<td width="50%">
+## 🖼️ React Image Gallery
 
-## 🖼 Image Gallery
+Responsive image gallery built using reusable React components.
 
-Responsive image gallery built with reusable React components.
+### 🛠️ Tech Stack
 
-**Tech Stack**
+`React` `JavaScript` `CSS`
 
-React • CSS
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
+---
 
 ## 🌐 Portfolio Website
 
-Personal portfolio showcasing projects, skills, and learning journey.
+Personal portfolio website showcasing my projects, technical skills, and development journey.
 
-</td>
+### 🛠️ Tech Stack
 
-<td width="50%">
+`HTML` `CSS` `JavaScript`
 
-## 🎓 Great Learning Website
+---
 
-Responsive educational landing page built with HTML, CSS & JavaScript.
+# 🌱 Currently Learning
 
-</td>
-
-</tr>
-</table>
+* ⚛️ Advanced React
+* 🟢 Node.js
+* 🚀 Express.js
+* 🍃 MongoDB
+* 🔐 Authentication & Authorization
+* 🔗 REST API Development
+* 🧠 Data Structures & Algorithms
+* 🔷 TypeScript
+* ☁️ Application Deployment
 
 ---
 
 # 🎯 2026 Goals
 
-* ✅ Master React.js
-* 🚀 Learn Node.js
-* 🚀 Learn Express.js
-* 🚀 Learn MongoDB
-* 🎯 Build 50+ Projects
+* ✅ Strengthen React.js
+* 🚀 Build production-ready MERN applications
+* 🚀 Master Node.js & Express.js
+* 🍃 Improve MongoDB & database design
+* 🔐 Implement secure authentication
+* 🧠 Improve DSA & problem solving
+* 🎯 Build 50+ practical projects
 * 🌍 Contribute to Open Source
-* 💼 Secure a Full Stack Developer Role
+* ☁️ Deploy full-stack applications
+* 💼 Secure a Full Stack Developer opportunity
 
 ---
 
 # 📅 Learning Roadmap
 
 ```text
-✅ HTML5
+HTML5
 ████████████████████ 100%
 
-✅ CSS3
+CSS3
 ████████████████████ 100%
 
-✅ JavaScript
+JavaScript
 ██████████████████░░ 90%
 
-⚛️ React.js
-███████████████░░░░░ 80%
+React.js
+████████████████░░░░ 80%
 
-🟢 Node.js
+Node.js
+██████████░░░░░░░░░░ 50%
+
+Express.js
+█████████░░░░░░░░░░░ 45%
+
+MongoDB
 ████████░░░░░░░░░░░░ 40%
 
-🚀 Express.js
-███████░░░░░░░░░░░░░ 35%
-
-🍃 MongoDB
-██████░░░░░░░░░░░░░░ 30%
-
-🔷 TypeScript
-██░░░░░░░░░░░░░░░░░░ 10%
+TypeScript
+███░░░░░░░░░░░░░░░░░ 15%
 ```
 
 ---
 
-# 🤝 Connect With Me
+# 🔥 Current Development Focus
 
-<p align="center">
+```text
+Frontend
+   ↓
+React.js
+   ↓
+REST APIs
+   ↓
+Node.js + Express.js
+   ↓
+MongoDB
+   ↓
+Authentication
+   ↓
+Full Stack Applications
+   ↓
+Deployment
+```
 
-<a href="https://github.com/mukeshmannai14">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+---
 
-<a href="/mukeshmannai14">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+# 💼 Open To Opportunities
 
-<a href="mailto:mukeshkannamannai04@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+I'm currently interested in:
 
-</p>
+* 💻 Full Stack Developer Internships
+* ⚛️ React Developer Internships
+* 🌐 Junior Full Stack Developer Roles
+* 🎨 Frontend Developer Roles
+* 🚀 Freelance Web Development Projects
+* 🌍 Open Source Contributions
+
+---
+
+# 📜 Certifications
+
+* 🏅 Prompt Engineering Certificate
+* 🏅 Full Stack Development Training — In Progress
+
 ---
 
 # 📊 GitHub Analytics
@@ -264,102 +345,54 @@ Responsive educational landing page built with HTML, CSS & JavaScript.
 
 <div align="center">
 
-```text
-⚠️ Enable GitHub Actions and add the contribution snake workflow.
-Then replace this section with the generated snake.svg.
-
-Example:
-<img src="https://raw.githubusercontent.com/mukeshmannai14/mukeshmannai14/output/github-contribution-grid-snake.svg">
-```
+<img src="https://raw.githubusercontent.com/mukeshmannai14/mukeshmannai14/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-# 📚 Current Learning Focus
+# 📚 Skills
 
-<table>
-<tr>
-<td>⚛️ React.js</td>
-<td>⭐⭐⭐⭐☆</td>
-</tr>
-
-<tr>
-<td>🟨 JavaScript ES6+</td>
-<td>⭐⭐⭐⭐☆</td>
-</tr>
-
-<tr>
-<td>🟢 Node.js</td>
-<td>⭐⭐☆☆☆</td>
-</tr>
-
-<tr>
-<td>🚀 Express.js</td>
-<td>⭐⭐☆☆☆</td>
-</tr>
-
-<tr>
-<td>🍃 MongoDB</td>
-<td>⭐☆☆☆☆</td>
-</tr>
-
-<tr>
-<td>🔷 TypeScript</td>
-<td>⭐☆☆☆☆</td>
-</tr>
-</table>
+| Technology   | Level |
+| ------------ | ----- |
+| HTML5        | ⭐⭐⭐⭐⭐ |
+| CSS3         | ⭐⭐⭐⭐⭐ |
+| JavaScript   | ⭐⭐⭐⭐☆ |
+| React.js     | ⭐⭐⭐⭐☆ |
+| Tailwind CSS | ⭐⭐⭐⭐☆ |
+| Node.js      | ⭐⭐⭐☆☆ |
+| Express.js   | ⭐⭐⭐☆☆ |
+| MongoDB      | ⭐⭐⭐☆☆ |
+| Python       | ⭐⭐⭐☆☆ |
+| TypeScript   | ⭐⭐☆☆☆ |
 
 ---
 
-# 🚀 What I'm Working On
+# 🤝 Connect With Me
 
-* 🌿 Greenify Website Improvements
-* 🔢 React Counter Application
-* 🎲 React Random Number Generator
-* 🖼️ React Image Gallery
-* 🌐 Personal Portfolio Website
-* ⚛️ Learning Advanced React Concepts
-* 🚀 Beginning Backend Development with Node.js
+<div align="center">
 
----
+<a href="https://github.com/mukeshmannai14">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-# 📜 Certifications
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-🏅 Prompt Engineering Certificate
+<a href="mailto:mukeshkannamannai04@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🏅 Full Stack Development Training (In Progress)
-
-🏅 More certifications coming soon...
-
----
-
-# 💼 Looking For
-
-✅ Frontend Developer Internship
-
-✅ React Developer Internship
-
-✅ Junior Frontend Developer Role
-
-✅ Freelance Web Development Projects
-
-✅ Open Source Contributions
+</div>
 
 ---
 
 # 💡 Developer Philosophy
 
-> **"Every line of code is an opportunity to learn, improve, and build something meaningful."**
+> **"Build. Learn. Improve. Repeat."**
 
----
-
-# 📌 Fun Facts
-
-* 💻 I enjoy turning ideas into interactive web applications.
-* 🎯 I learn best by building practical projects.
-* 📚 I'm committed to improving my skills every day.
-* 🚀 My goal is to become a professional Full Stack Developer.
+I believe the best way to learn software development is by building real applications, solving real problems, and continuously improving the implementation.
 
 ---
 
@@ -369,7 +402,7 @@ Example:
 
 ### ⭐ If you like my work, consider giving my repositories a star!
 
-### 🤝 Let's connect and build something amazing together.
+### 🤝 Let's connect and build something meaningful together.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:EC4899"/>
 
